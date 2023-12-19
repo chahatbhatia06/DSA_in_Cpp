@@ -1,2 +1,2 @@
-# DSA_in_Cpp
-Data Structures and Algorithms in C++ codes.
+# DSA_in_JS
+Data Structures and Algorithms codes in javascript language.
