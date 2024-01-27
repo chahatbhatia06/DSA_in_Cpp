@@ -1,2 +1,2 @@
-# DSA_in_JS
-Data Structures and Algorithms codes in javascript language.
+# DSA
+Data Structures and Algorithms codes.
